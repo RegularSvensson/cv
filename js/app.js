@@ -1,5 +1,5 @@
 var app = angular.module("cvApp", []);
-
+/*
 app.config(function ($routeProvider) {
 	$routeProvider
 	.when('/', {
@@ -14,3 +14,4 @@ app.config(function ($routeProvider) {
 		redirectTo: '/'
 	});
 });
+*/
