@@ -8,3 +8,9 @@ cvControllers.controller("MainController", function($scope) {
 		education: "Industrial Engineering, Chalmers Institute of Technology"
 	};
 });
+
+cvControllers.controller('HomeController', function($scope) {
+	$scope.info = {
+		message: 'Hello world!'
+	};
+});
