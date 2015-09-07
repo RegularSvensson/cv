@@ -1,1 +1,1 @@
-controllers.js
+var cvControllers = angular.module('cvControllers', []);
