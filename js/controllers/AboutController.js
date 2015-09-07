@@ -1,4 +1,4 @@
-app.controller('AboutController', functoin($scope) {
+app.controller('AboutController', function($scope) {
 	$scope.about = {
 		name: 'Elias Svensson',
 		age: 23,
